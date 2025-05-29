@@ -4,7 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-⚡-green?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge&logo=jsonwebtokens)
-<img src="https://img.shields.io/badge/NextAuth.js-3A0CA3?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js Badge"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
 ![Status](https://img.shields.io/badge/Build-In_Progress-yellow?style=for-the-badge&logo=githubactions)
 
