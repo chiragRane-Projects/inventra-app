@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
 ![Status](https://img.shields.io/badge/Build-In_Progress-yellow?style=for-the-badge&logo=githubactions)
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/API-Render-3f3fff?style=for-the-badge&logo=render)
+![Expo](https://img.shields.io/badge/Mobile-Expo-000020?style=for-the-badge&logo=expo)
 
 
 ## 📦 Overview
@@ -24,7 +27,7 @@
 - **Backend**: FastAPI + MongoDB Atlas + JWT Auth
 - **Frontend**: React Native (Expo) & Next.js 15 (App Router)
 - **Data Science**: Pandas, NumPy for analytics
-- **Deployment**: Render (API), Expo Go (Mobile)
+- **Deployment**: Render (API), Expo Go (Mobile), Vercel
 
 > 💡 Currently under development — follow along in the `dev` branch!
 
