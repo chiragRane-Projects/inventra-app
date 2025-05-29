@@ -1,50 +1,31 @@
-# Welcome to your Expo app 👋
+# 🚀 Inventra — Smart Inventory Management System
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-⚡-green?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge&logo=jsonwebtokens)
+<img src="https://img.shields.io/badge/NextAuth.js-3A0CA3?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js Badge"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
+![Status](https://img.shields.io/badge/Build-In_Progress-yellow?style=for-the-badge&logo=githubactions)
 
-## Get started
 
-1. Install dependencies
+## 📦 Overview
 
-   ```bash
-   npm install
-   ```
+**Inventra** is a modern inventory management system built with 💚 FastAPI and secured using JWT. Designed for small-to-mid shops, it offers full-featured web & mobile apps (React Native + Next.js) for managing stock, tracking logs, and analyzing reports with Pandas.
 
-2. Start the app
+### ✨ Features
+- 🔐 JWT Authentication & RBAC (Admin/Staff)
+- 📋 Inventory CRUD with expiry & units
+- 📈 Reports: Top-used items, trends, restock frequency
+- 📁 Excel/CSV upload & download support
+- 📊 PDF & Excel report generation (via Pandas + OpenPyXL)
 
-   ```bash
-   npx expo start
-   ```
+### 🧠 Tech Stack
+- **Backend**: FastAPI + MongoDB Atlas + JWT Auth
+- **Frontend**: React Native (Expo) & Next.js 15 (App Router)
+- **Data Science**: Pandas, NumPy for analytics
+- **Deployment**: Render (API), Expo Go (Mobile)
 
-In the output, you'll find options to open the app in a
+> 💡 Currently under development — follow along in the `dev` branch!
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---

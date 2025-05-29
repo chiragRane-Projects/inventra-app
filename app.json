@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d51b5363-6b7d-4a74-b2a6-03162da7910e"
+      }
+    },
+    "owner": "chiragrane04"
   }
 }
